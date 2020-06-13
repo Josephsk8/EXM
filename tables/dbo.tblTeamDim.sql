@@ -5,8 +5,8 @@ PURPOSE: Create the dbo.tblTeamDim table
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     08/02/2019   JJAUSSI       1. Built this table for LDS BC IT240
-1.1     05/06/2020   JJAUSSI       1. Added Team Name
+1.0     08/02/2019   JMUERAS       1. Built this table for LDS BC IT240
+1.1     05/06/2020   JMUERAS       1. Added Team Name
 
 
 RUNTIME: 
